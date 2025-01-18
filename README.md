@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Dasu Koda and I'm currently pursuing my degree in the stream of Electronics and communication engineering . I am an aspiring Design and Verification Engineer with a strong passion for the VLSI and semiconductor domain.</h2>
+ <h2 align="center">Hi 👋! My name is Dasu Koda and I'm currently pursuing my degree in the stream of Electronics and communication engineering . I am an aspiring Design and Verification Engineer with a strong passion for the VLSI and semiconductor domain.</h2>
 
 ###
 
@@ -40,12 +40,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/22MH1A04H3/22MH1A04H3/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
